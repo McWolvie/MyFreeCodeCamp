@@ -1,5 +1,4 @@
-// Configuración
-var a;
+// Almacenar valores con el operador de asignación
 
-// Cambia solo el código debajo de esta línea
+var a;
 var  a = 7;
