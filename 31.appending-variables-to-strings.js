@@ -1,4 +1,4 @@
-// Cambia el código debajo de esta línea
+// Agrega variables a cadenas
 const someAdjective = "Excelsior!";
 let myStr = "Learning to code is ";
 
