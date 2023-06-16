@@ -1,7 +1,0 @@
-Usar // le dirá a JavaScript que ignore el resto del texto en la línea actual. Este es un comentario en línea:
-// Hola mundo
-
-Puedes hacer un comentario multilínea comenzando con /* y terminando con */. Este es un comentario multilínea:
-/* I'm developer*/
-
-**Nota: ** A medida que programas, deberías añadir comentarios regularmente para aclarar el funcionamiento de las partes de tu código. Un buen comentario puede ayudar a comunicar la intención de tu código, tanto para otros como para tu yo futuro.
