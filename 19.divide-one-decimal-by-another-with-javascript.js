@@ -1,1 +1,2 @@
-const quotient = 4.4 / 2.0; // Cambia esta línea
+// Divide un decimal entre otro con JavaScript
+const quotient = 4.4 / 2.0; 
