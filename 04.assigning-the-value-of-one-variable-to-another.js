@@ -1,8 +1,7 @@
-// Configuración
+// Asigna el valor de una variable a otra variable
 var a;
 a = 7;
 var b;
 
-// Cambia solo el código debajo de esta línea
 b = 7;
 b = a;
