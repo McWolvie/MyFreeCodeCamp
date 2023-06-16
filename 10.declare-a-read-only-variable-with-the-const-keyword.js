@@ -1,4 +1,5 @@
-const FCC = "freeCodeCamp"; // Cambia esta línea
-let fact = "is cool!"; // Cambia esta línea
+// Declara una variable de solo lectura con la palabra clave const
+const FCC = "freeCodeCamp"; 
+let fact = "is cool!"; 
 fact = "is awesome!";
-console.log(FCC, fact); // Cambia esta línea
+console.log(FCC, fact); 
