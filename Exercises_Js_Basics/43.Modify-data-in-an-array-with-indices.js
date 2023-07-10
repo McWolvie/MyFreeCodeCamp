@@ -6,6 +6,7 @@
 
 const ourArray = [50, 40, 30];
 ourArray[0] = 15;
+
 // ourArray ahora tiene el valor [15, 40, 30].
 
 // Nota: No debe haber espacios entre el nombre del arreglo y los corchetes, como array [0]. Aunque JavaScript pueda procesar esto correctamente, puedes confundir a otros programadores al leer tu código.
