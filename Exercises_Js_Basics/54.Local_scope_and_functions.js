@@ -19,12 +19,12 @@ console.log(loc);
 // Nota: La consola todavía mostrará el error ReferenceError: myVar is not defined, pero esto no causará que las pruebas fallen.
 
 function myLocalScope() {
-    // Cambia solo el código debajo de esta línea
-  const myVar = "";
-    console.log('inside myLocalScope', myVar);
-  }
-  myLocalScope();
-  
-  // Ejecuta y verifica la consola
-  // myVar no está definida afuera de myLocalScope
-  console.log('outside myLocalScope', myVar);
+  // Cambia solo el código debajo de esta línea
+  var myVar = "";
+  console.log("inside myLocalScope", myVar);
+}
+myLocalScope();
+
+// Ejecuta y verifica la consola
+// myVar no está definida afuera de myLocalScope
+console.log("outside myLocalScope", myVar);

@@ -1,2 +1,11 @@
 // Almacena múltiples valores en una variable utilizando los arreglos de JavaScript
-const myArray = ["peanut butter",3,  "jelly", "bread"];
+
+// Con las variables de arreglos (array) de JavaScript, podemos almacenar varios datos en un solo lugar.
+
+// Inicias una declaración de arreglo con un corchete de apertura, lo terminas con un corchete de cierre, y pones una coma entre cada entrada, de esta forma:
+
+const sandwich = ["peanut butter", "jelly", "bread"];
+
+// Modifica el nuevo arreglo myArray para que contenga tanto una cadena como un número (en ese orden).
+
+const myArray = ["peanut butter",5 ,  "jelly", "bread"];
